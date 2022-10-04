@@ -1,3 +1,5 @@
 analytics.google.com
 google-analytics.com
+region1.google-analytics.com
 googletagmanager.com
+www.googletagmanager.com
