@@ -1,3 +1,4 @@
 @@||googletagmanager.com^
 @@||google-analytics.com^
 @@||gstatic.com^
+@@||analytics.google.com^
