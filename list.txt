@@ -4,4 +4,3 @@
 @@||analytics.google.com^
 @@||raisenow.com^
 @@||arweave.net^
-arweave.net
