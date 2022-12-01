@@ -3,4 +3,4 @@
 @@||gstatic.com^
 @@||analytics.google.com^
 @@||raisenow.com^
-@@||areweave.net^
+@@||arweave.net^
