@@ -8,3 +8,4 @@
 @@||planzer.ch^
 @@||t.co^
 @@||umami.is^
+@@||fonts.gstatic.com^
