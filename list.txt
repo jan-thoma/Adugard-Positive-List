@@ -9,3 +9,4 @@
 @@||t.co^
 @@||umami.is^
 @@||fonts.gstatic.com^
+@@||fonts.googleapis.com^
