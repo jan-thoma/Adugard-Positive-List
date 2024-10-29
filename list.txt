@@ -10,3 +10,4 @@
 @@||umami.is^
 @@||fonts.gstatic.com^
 @@||fonts.googleapis.com^
+@@||click.discord.com^
